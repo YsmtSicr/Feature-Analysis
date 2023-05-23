@@ -1,3 +1,8 @@
 # Feature-Analysis
 Linguistic feature analysis tool using LSTM with Attention
-明日書く。
+ファイル構成
+・main.ipynb:分析ツール本体
+・LSTM:LSTM等のパッケージ
+・README.md:
+
+使用方法
